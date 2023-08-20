@@ -8,7 +8,7 @@ This is a simple web application that generates and displays a random quote alon
 - [Description](#description)
 - [Usage](#usage)
 - [Getting Started](#getting-started)
-- [Demo](#Demo)
+- [Try it](#tryit)
 
 
 ## Description
@@ -30,7 +30,8 @@ To run the Quote Generator locally, follow these steps:
 2. Open the `index.html` file in a web browser.
 3. Interact with the "New Quote" and "Tweet" buttons to explore the functionality.
 
-## Demo
+## Try it 
+ https://dima-br.github.io/QuoteGenerator/
 
 
 
